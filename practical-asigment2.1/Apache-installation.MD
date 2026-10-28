@@ -303,7 +303,7 @@ relative image path, for example:
 ``` markdown
 ![Apache listening port screenshot](screenshots/apache-netstat.png)
 ```
-
+![Apache listening port screenshot](screenshots/apache-netstat.png)
 Create a folder named `screenshots` beside this Markdown file and save
 your screenshot there as `apache-netstat.png`, or change the image path
 to match the filename you actually use.
